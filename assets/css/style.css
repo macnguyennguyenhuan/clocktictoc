@@ -30,7 +30,7 @@
     --z-tooltip: 10;
 }
 @media screen and (min-width: 968px){
-    :root:{
+    :root{
     --biggest-font-size: 3.5rem ;
     --small-font-size: .875rem;
     --smaller-font-size: .813rem ;
@@ -86,7 +86,7 @@ a{
 
 /* Reusable Css */
 .container{
-    max-width: 968px;
+    max-width: 100%;
     margin-left: var(--mb-1);
     margin-right: var(--mb-1);
 }
